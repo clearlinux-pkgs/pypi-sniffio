@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sniffio
-URL = https://files.pythonhosted.org/packages/a6/ae/44ed7978bcb1f6337a3e2bef19c941de750d73243fc9389140d62853b686/sniffio-1.2.0.tar.gz
+URL = https://files.pythonhosted.org/packages/cd/50/d49c388cae4ec10e8109b1b833fd265511840706808576df3ada99ecb0ac/sniffio-1.3.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
