@@ -7,7 +7,7 @@
 #
 Name     : pypi-sniffio
 Version  : 1.3.1
-Release  : 27
+Release  : 28
 URL      : https://files.pythonhosted.org/packages/a2/87/a6771e1546d97e7e041b6ae58d80074f81b7d5121207425c964ddf5cfdbd/sniffio-1.3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a2/87/a6771e1546d97e7e041b6ae58d80074f81b7d5121207425c964ddf5cfdbd/sniffio-1.3.1.tar.gz
 Summary  : Sniff out which async library your code is running under
